@@ -1,0 +1,41 @@
+@font-face {
+font-family:"Open Sans";
+font-weight:400;
+font-style:normal;
+src:url("../fonts/font.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:700;
+font-style:italic;
+src:url("../fonts/font_1.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:700;
+font-style:normal;
+src:url("../fonts/font_2.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:600;
+font-style:italic;
+src:url("../fonts/font_4.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:600;
+font-style:normal;
+src:url("../fonts/font_3.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:400;
+font-style:italic;
+src:url("../fonts/font_5.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:300;
+font-style:italic;
+src:url("../fonts/font_6.woff") format("woff");}
+@font-face {
+font-family:"Open Sans";
+font-weight:300;
+font-style:normal;
+src:url("../fonts/font_7.woff") format("woff");}
+
